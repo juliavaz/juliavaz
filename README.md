@@ -1,6 +1,6 @@
 ### Olá 😄👋
 
-✨ Meu nome é Júlia e sou desenvolvedora back end, com foco em Java ☕
+✨ Meu nome é Júlia e sou desenvolvedora back end ☕
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas e faço estágio na CGDF - Controladoria Geral do Distrito Federal.
 
