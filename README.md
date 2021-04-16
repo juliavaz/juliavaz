@@ -1,8 +1,8 @@
 ### Olá 😄👋
 
-✨ Meu nome é Júlia e sou desenvolvedora back end ☕
+✨ Meu nome é Júlia ☕
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas e faço estágio na CGDF - Controladoria Geral do Distrito Federal.
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas e trabalho como desenvolvedora backend na CGDF - Controladoria Geral do Distrito Federal.
 
 💜 Faço parte da comunidade de desenvolvedores [He4rt Devs](https://heartdevs.com/) como Social Media. 
 
@@ -11,7 +11,7 @@
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square;for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-vaz/) ⠀
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=flat-square;for-the-badge&logo=gmail&logoColor=white&link=mailto:juliavaz.dev@gmail.com)](mailto:juliavaz.dev@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=flat-square;for-the-badge&logo=gmail&logoColor=white&link=mailto:hello@juliavaz.me)](mailto:hello@juliavaz.me) 
 
 <!--
 **juliavaz/juliavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
