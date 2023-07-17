@@ -18,7 +18,7 @@
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas e Técnica em informática;
 
-👩‍💻 Trabalho como engenheira de software na [XP Inc.](https://www.xpi.com.br/);
+👩‍💻 Trabalho como Engenheira de Software na [Stone 💚](https://www.stone.com.br/);
 
 🌱 Atuo na aréa de tecnologia desde 2018;
 
